@@ -1,3 +1,7 @@
+# Archivado!!!
+
+#### Al momento de realizar el pull reques realicé mal el merge y las historias de main y las demas ramas se volvieron una sola y no es correcto para entender el workflow que realicé
+
 # Calculadora JavaScript
 
 ## Descripción
